@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj": {}
+    "c:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj": {}
   },
   "projects": {
-    "C:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj": {
+    "c:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj",
+        "projectUniqueName": "c:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj",
         "projectName": "Classes_M1",
-        "projectPath": "C:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj",
+        "projectPath": "c:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\Classes_M1.csproj",
         "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\obj\\",
+        "outputPath": "c:\\Meus projetos no VS Code\\Microsoft_Learn_bank\\classes_M1\\Classes_M1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivanr\\AppData\\Roaming\\NuGet\\NuGet.Config"

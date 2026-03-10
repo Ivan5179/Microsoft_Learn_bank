@@ -2,14 +2,28 @@ namespace Classes_M1;
 
 class BankCustomer
 {
+    public string FirstName = "Tim";
+    public string LastName = "Shao";
+    public string CustomerId = "1010101010";
+
     public BankCustomer()
     {
-        Console.WriteLine("BankCustomer created");
+
     }
 
     public BankCustomer(string firstName, string lastName)
     {
-        Console.WriteLine($"BankCustomer created: {firstName} {lastName}");
+        FirstName = firstName;
+        LastName = lastName;
+
+    }
+
+    public BankCustomer(string firstName, string lastName, string customerIdNumber)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+        CustomerId = customerIdNumber;
+
     }
 
 }
